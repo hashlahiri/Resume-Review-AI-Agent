@@ -77,6 +77,10 @@ curl -X POST "http://localhost:8000/review" \
 
 The prompt templates used to instruct the LLM are in `backend/prompt.py`.
 
+## Screens
+
+![AI Resume Screenshot](https://raw.githubusercontent.com/hashlahiri/Resume-Review-AI-Agent/main/screens/AI%20Resume%20Screenshot.png)
+
 ## Notes
 
 - The backend expects the model to return strict JSON. `backend/main.py` contains logic to robustly parse the model output and retry if the response contains extra text.
