@@ -1,0 +1,34 @@
+Chanakya Lahiri
+Software Engineer | Java | Spring Boot | Node.js | Go | Kubernetes
+
+Experience:
+
+Projects:
+
+Skills:
+Java, Spring Boot, Node.js, Go, MongoDB, Docker, Kubernetes, AWS
+Chanakya Lahiri
+Backend Software Engineer
+
+Summary
+Experienced backend engineer with 5+ years building scalable services and APIs. Focused on performance, reliability, and delivering measurable business impact.
+
+Experience
+Senior Software Engineer — Acme Payments (Remote) — 2021–Present
+- Designed and implemented a high-throughput payments API in Go and Spring Boot serving 2M+ monthly transactions; reduced average latency by 35%.
+- Led migration of critical services to Kubernetes and EKS, improving deployment frequency from weekly to daily and reducing rollback incidents by 60%.
+- Built monitoring and alerting (Prometheus + Grafana) that reduced mean time to detect (MTTD) by 50%.
+
+Software Engineer — Fintech Labs — 2018–2021
+- Built and maintained RESTful microservices in Java and Node.js handling user authentication and transaction processing.
+- Implemented rate limiting and caching (Redis) to reduce backend load by 40% and improved throughput under peak traffic.
+
+Projects
+Walk Safe AI — Safety routing prototype
+- Built data pipelines to aggregate open transit and crime data; produced route scoring model and API used in a pilot with 500 users.
+
+Skills
+Go, Java, Spring Boot, Node.js, REST APIs, Kubernetes, Docker, AWS (ECS/EKS), Prometheus, Grafana, Redis, MongoDB, CI/CD
+
+Contact
+helloclahiria@gmail.com
